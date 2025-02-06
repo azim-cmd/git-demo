@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git repository.
 <br>
-Author - Mohd Azimuddin
+Author - Mohd Azimuddin (dbuu)
