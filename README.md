@@ -2,5 +2,5 @@
 This is my first Git repository.
 <br>
 
-Author - Mohd Azimuddin, bca graduate(dbuu)
+Author - Mohd Azimuddin
 
